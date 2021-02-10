@@ -325,11 +325,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansAequatorialguinea.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (0,113,69)):
 
         x, y = pyautogui.locateCenterOnScreen('ansAethiopien.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -337,11 +341,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansAlbanien.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (87,182,120)):
 
         x, y = pyautogui.locateCenterOnScreen('ansAlgerien.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -349,11 +357,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansAndorra.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (118,172,220)):
 
         x, y = pyautogui.locateCenterOnScreen('ansArgentinien.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -361,11 +373,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansAserbaidschan.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (255,61,61)):
 
         x, y = pyautogui.locateCenterOnScreen('ansAustralien.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -373,11 +389,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansBahamas.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (141,141,141)):
 
         x, y = pyautogui.locateCenterOnScreen('ansBahrain.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -385,11 +405,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansBarbados.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (117,12,23)):
 
         x, y = pyautogui.locateCenterOnScreen('ansBelize.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -397,11 +421,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansBhutan.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (217,24,0)):
 
         x, y = pyautogui.locateCenterOnScreen('ansBolivien.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -409,11 +437,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansBosnienHerzogowina.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (0,157,56)):
 
         x, y = pyautogui.locateCenterOnScreen('ansBrasilien.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -421,11 +453,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansBurkinaFaso.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (216,61,61)):
 
         x, y = pyautogui.locateCenterOnScreen('ansCookinseln.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -433,11 +469,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansDaenemark.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (0,128,255)):
 
         x, y = pyautogui.locateCenterOnScreen('ansdemrepkongo.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -445,11 +485,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansDominikanische.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (213,234,248)):
 
         x, y = pyautogui.locateCenterOnScreen('ansDschibuti.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -457,11 +501,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansEcuador.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (0,156,98)):
 
         x, y = pyautogui.locateCenterOnScreen('ansElfenbeinkueste.png', region=(900,440,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -469,11 +517,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansEritrea.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (112,16,25)):
 
         x, y = pyautogui.locateCenterOnScreen('ansFidschi.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -481,11 +533,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansFrankreich.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (0,159,96)):
 
         x, y = pyautogui.locateCenterOnScreen('ansGabun.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -493,11 +549,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansGriechenland.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (135,200,228)):
 
         x, y = pyautogui.locateCenterOnScreen('ansGuatemala.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -505,11 +565,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansGuyana.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (2,124,207)):
 
         x, y = pyautogui.locateCenterOnScreen('ansHonduras.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -517,11 +581,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansIndien.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (232,0,8)):
 
         x, y = pyautogui.locateCenterOnScreen('ansIndonesien.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -530,11 +598,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansIran.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (0,156,70)):
 
         x, y = pyautogui.locateCenterOnScreen('ansIrland.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -542,11 +614,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansIsland.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (0,147,68)):
 
         x, y = pyautogui.locateCenterOnScreen('ansItalien.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -554,11 +630,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansJamaika.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (146,4,20)):
 
         x, y = pyautogui.locateCenterOnScreen('ansJordanien.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -566,11 +646,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansKambodscha.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (0,123,94)):
 
         x, y = pyautogui.locateCenterOnScreen('ansKamerun.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -578,11 +662,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansKanada.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (111,221,255)):
 
         x, y = pyautogui.locateCenterOnScreen('ansKasachstan.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -590,11 +678,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansKirgisistan.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (255,3,3)):
 
         x, y = pyautogui.locateCenterOnScreen('ansKiribati.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -602,11 +694,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansKolumbien.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (120,161,41)):
 
         x, y = pyautogui.locateCenterOnScreen('ansKomoren.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -614,11 +710,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansKongo.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (31,73,166)):
 
         x, y = pyautogui.locateCenterOnScreen('ansKosovo.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -626,11 +726,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansKroatien.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (94,5,18)):
 
         x, y = pyautogui.locateCenterOnScreen('ansKuba.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -638,11 +742,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansKuwait.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (159,44,54)):
 
         x, y = pyautogui.locateCenterOnScreen('ansLettland.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -650,11 +758,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansLiberia.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (232,0,12)):
 
         x, y = pyautogui.locateCenterOnScreen('ansLibyen.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -662,11 +774,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansLichtenstein.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (253,186,11)):
 
         x, y = pyautogui.locateCenterOnScreen('ansLitauen.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -674,11 +790,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansMalaysia.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (12,182,55)):
 
         x, y = pyautogui.locateCenterOnScreen('ansMali.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -686,11 +806,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansMarokko.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (0,53,148)):
 
         x, y = pyautogui.locateCenterOnScreen('ansMarshallinseln.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -698,11 +822,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansMexiko.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (29,94,186)):
 
         x, y = pyautogui.locateCenterOnScreen('ansMoldawien.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -710,11 +838,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansMongolei.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (213,177,55)):
 
         x, y = pyautogui.locateCenterOnScreen('ansMontenegro.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -722,11 +854,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansMosambik.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (0,50,129)):
 
         x, y = pyautogui.locateCenterOnScreen('ansNamibia.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -734,11 +870,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansNeuseeland.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (0,103,199)):
 
         x, y = pyautogui.locateCenterOnScreen('ansNicaragua.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -746,11 +886,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansNiederlande.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (225,81,1)):
 
         x, y = pyautogui.locateCenterOnScreen('ansNiger.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -758,11 +902,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansNordkorea.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (221,55,0)):
 
         x, y = pyautogui.locateCenterOnScreen('ansNordmazedonien.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -770,11 +918,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansOman.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (68,1,5)):
 
         x, y = pyautogui.locateCenterOnScreen('ansPapua.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -782,11 +934,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansParaguay.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (224,42,61)):
 
         x, y = pyautogui.locateCenterOnScreen('ansPeru.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -794,11 +950,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansPhilippinen.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (0,155,244)):
 
         x, y = pyautogui.locateCenterOnScreen('ansRuanda.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -806,11 +966,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansRumaenien.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (0,80,187)):
 
         x, y = pyautogui.locateCenterOnScreen('ansSalomonen.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -818,11 +982,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansSambia.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (0,39,128)):
 
         x, y = pyautogui.locateCenterOnScreen('ansSamoa.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -830,11 +998,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansSaudiArabien.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (35,126,180)):
 
         x, y = pyautogui.locateCenterOnScreen('ansSchweden.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -842,11 +1014,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansSchweiz.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (0,134,61)):
 
         x, y = pyautogui.locateCenterOnScreen('ansSenegal.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -854,11 +1030,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansSerbien.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (0,61,136)):
 
         x, y = pyautogui.locateCenterOnScreen('ansSeychellen.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -866,11 +1046,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansSierraLeone.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (137,135,139)):
 
         x, y = pyautogui.locateCenterOnScreen('ansSimbabwe.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -878,11 +1062,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansSomalia.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (199,3,24)):
 
         x, y = pyautogui.locateCenterOnScreen('ansSpanien.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -890,11 +1078,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansSriLanka.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (3,80,162)):
 
         x, y = pyautogui.locateCenterOnScreen('ansStLucia.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -902,11 +1094,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansSudan.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (0,123,76)):
 
         x, y = pyautogui.locateCenterOnScreen('ansSuedafrika.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -914,11 +1110,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansSuedkorea.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (0,115,36)):
 
         x, y = pyautogui.locateCenterOnScreen('ansSuriname.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -926,11 +1126,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansSwasiland.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (214,45,65)):
 
         x, y = pyautogui.locateCenterOnScreen('ansSyrien.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -938,11 +1142,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansTadschikistan.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (2,0,50)):
 
         x, y = pyautogui.locateCenterOnScreen('ansTaiwan.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -950,11 +1158,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansTansania.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (223,8,17)):
 
         x, y = pyautogui.locateCenterOnScreen('ansThailand.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -962,11 +1174,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansTimorLeste.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (229,129,138)):
 
         x, y = pyautogui.locateCenterOnScreen('ansTrinidadTobago.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -974,11 +1190,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansTschad.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (52,48,195)):
 
         x, y = pyautogui.locateCenterOnScreen('ansTschechien.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -986,11 +1206,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansTunesien.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (55,118,196)):
 
         x, y = pyautogui.locateCenterOnScreen('ansUkraine.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -998,11 +1222,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansUngarn.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (6,40,100)):
 
         x, y = pyautogui.locateCenterOnScreen('ansUSA.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -1010,11 +1238,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansUsbekistan.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (57,0,6)):
 
         x, y = pyautogui.locateCenterOnScreen('ansVanuatu.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -1022,11 +1254,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansVatikan.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (247,210,16)):
 
         x, y = pyautogui.locateCenterOnScreen('ansVenezuela.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -1034,11 +1270,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('ansVereinigtes.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (237,0,13)):
 
         x, y = pyautogui.locateCenterOnScreen('ansVietnam.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -1046,11 +1286,15 @@ while keyboard.is_pressed('q') == False:
 
         x, y = pyautogui.locateCenterOnScreen('answhiterussland.png', region=(900,460,280,330), confidence=0.8)
 
+        time.sleep(np.random.uniform(0.2,0.5))
+
         click(x,y)
 
     if pyautogui.pixelMatchesColor(919,271, (29,74,147)):
 
         x, y = pyautogui.locateCenterOnScreen('ansZentralafrikanische.png', region=(900,460,280,330), confidence=0.8)
+
+        time.sleep(np.random.uniform(0.2,0.5))
 
         click(x,y)
 
@@ -1064,11 +1308,15 @@ while keyboard.is_pressed('q') == False:
             
             x, y = pyautogui.locateCenterOnScreen('ansBulgarien.png', region=(900,460,280,330), confidence=0.8)
 
+            time.sleep(np.random.uniform(0.2,0.5))
+
             click(x,y)
 
         if pyautogui.pixelMatchesColor(1150,400, (24,182,55)):
             
             x, y = pyautogui.locateCenterOnScreen('ansBurudi.png', region=(900,460,280,330), confidence=0.8)
+
+            time.sleep(np.random.uniform(0.2,0.5))
 
             click(x,y)
 
@@ -1076,11 +1324,15 @@ while keyboard.is_pressed('q') == False:
             
             x, y = pyautogui.locateCenterOnScreen('ansGeorgien.png', region=(900,460,280,330), confidence=0.8)
 
+            time.sleep(np.random.uniform(0.2,0.5))
+
             click(x,y)
 
         if pyautogui.pixelMatchesColor(1150,420, (0,53,185)):
             
             x, y = pyautogui.locateCenterOnScreen('ansIsrael.png', region=(900,460,280,330), confidence=0.8)
+
+            time.sleep(np.random.uniform(0.2,0.5))
 
             click(x,y)
 
@@ -1088,11 +1340,15 @@ while keyboard.is_pressed('q') == False:
             
             x, y = pyautogui.locateCenterOnScreen('ansJapan.png', region=(900,460,280,330), confidence=0.8)
 
+            time.sleep(np.random.uniform(0.2,0.5))
+
             click(x,y)
 
         if pyautogui.pixelMatchesColor(1150,420, (113,18,58)):
             
             x, y = pyautogui.locateCenterOnScreen('ansKatar.png', region=(900,460,280,330), confidence=0.8)
+
+            time.sleep(np.random.uniform(0.2,0.5))
 
             click(x,y)
 
@@ -1100,11 +1356,15 @@ while keyboard.is_pressed('q') == False:
             
             x, y = pyautogui.locateCenterOnScreen('ansMadagaskar.png', region=(900,460,280,330), confidence=0.8)
 
+            time.sleep(np.random.uniform(0.2,0.5))
+
             click(x,y)
 
         if pyautogui.pixelMatchesColor(1150,420, (208,12,39)):
             
             x, y = pyautogui.locateCenterOnScreen('ansMalta.png', region=(900,460,280,330), confidence=0.8)
+
+            time.sleep(np.random.uniform(0.2,0.5))
 
             click(x,y)
 
@@ -1112,11 +1372,15 @@ while keyboard.is_pressed('q') == False:
             
             x, y = pyautogui.locateCenterOnScreen('ansPakistan.png', region=(900,460,280,330), confidence=0.8)
 
+            time.sleep(np.random.uniform(0.2,0.5))
+
             click(x,y)
 
         if pyautogui.pixelMatchesColor(1107,390, (217,0,0)):
             
             x, y = pyautogui.locateCenterOnScreen('ansPanama.png', region=(900,460,280,330), confidence=0.8)
+
+            time.sleep(np.random.uniform(0.2,0.5))
 
             click(x,y)
 
@@ -1124,11 +1388,15 @@ while keyboard.is_pressed('q') == False:
             
             x, y = pyautogui.locateCenterOnScreen('ansPolen.png', region=(900,460,280,330), confidence=0.8)
 
+            time.sleep(np.random.uniform(0.2,0.5))
+
             click(x,y)
 
         if pyautogui.pixelMatchesColor(1150,420, (254,0,0)):
             
             x, y = pyautogui.locateCenterOnScreen('ansRussland.png', region=(900,460,280,330), confidence=0.8)
+
+            time.sleep(np.random.uniform(0.2,0.5))
 
             click(x,y)
 
@@ -1136,11 +1404,15 @@ while keyboard.is_pressed('q') == False:
             
             x, y = pyautogui.locateCenterOnScreen('ansSanMarino.png', region=(900,460,280,330), confidence=0.8)
 
+            time.sleep(np.random.uniform(0.2,0.5))
+
             click(x,y)
 
         if pyautogui.pixelMatchesColor(1150,420, (255,0,0)):
             
             x, y = pyautogui.locateCenterOnScreen('ansSlowakei.png', region=(900,460,280,330), confidence=0.8)
+
+            time.sleep(np.random.uniform(0.2,0.5))
 
             click(x,y)
 
@@ -1148,17 +1420,23 @@ while keyboard.is_pressed('q') == False:
             
             x, y = pyautogui.locateCenterOnScreen('ansSlowenien.png', region=(900,460,280,330), confidence=0.8)
 
+            time.sleep(np.random.uniform(0.2,0.5))
+
             click(x,y)
 
         if pyautogui.pixelMatchesColor(1150,420, (194,0,0)):
             
             x, y = pyautogui.locateCenterOnScreen('ansTonga.png', region=(900,460,280,330), confidence=0.8)
 
+            time.sleep(np.random.uniform(0.2,0.5))
+
             click(x,y)
 
         if pyautogui.pixelMatchesColor(965,325, (224,179,32)):
             
             x, y = pyautogui.locateCenterOnScreen('ansUruguay.png', region=(900,460,280,330), confidence=0.8)
+
+            time.sleep(np.random.uniform(0.2,0.5))
 
             click(x,y)
 
@@ -1172,11 +1450,15 @@ while keyboard.is_pressed('q') == False:
             
             x, y = pyautogui.locateCenterOnScreen('ansAngola.png', region=(900,460,280,330), confidence=0.8)
 
+            time.sleep(np.random.uniform(0.2,0.5))
+
             click(x,y)
 
         if pyautogui.pixelMatchesColor(1150,420, (0,149,96)):
             
             x, y = pyautogui.locateCenterOnScreen('ansGuinea.png', region=(900,460,280,330), confidence=0.8)
+
+            time.sleep(np.random.uniform(0.2,0.5))
 
             click(x,y)
 
@@ -1184,11 +1466,15 @@ while keyboard.is_pressed('q') == False:
             
             x, y = pyautogui.locateCenterOnScreen('ansIrak.png', region=(900,460,280,330), confidence=0.8)
 
+            time.sleep(np.random.uniform(0.2,0.5))
+
             click(x,y)
 
         if pyautogui.pixelMatchesColor(1141,325, (207,8,33)):
             
             x, y = pyautogui.locateCenterOnScreen('ansJemen.png', region=(900,460,280,330), confidence=0.8)
+
+            time.sleep(np.random.uniform(0.2,0.5))
 
             click(x,y)
 
@@ -1196,11 +1482,15 @@ while keyboard.is_pressed('q') == False:
             
             x, y = pyautogui.locateCenterOnScreen('ansLaos.png', region=(900,460,280,330), confidence=0.8)
 
+            time.sleep(np.random.uniform(0.2,0.5))
+
             click(x,y)
 
         if pyautogui.pixelMatchesColor(1150,420, (255,255,255)):
             
             x, y = pyautogui.locateCenterOnScreen('ansMonaco.png', region=(900,460,280,330), confidence=0.8)
+
+            time.sleep(np.random.uniform(0.2,0.5))
 
             click(x,y)
 
@@ -1208,11 +1498,15 @@ while keyboard.is_pressed('q') == False:
             
             x, y = pyautogui.locateCenterOnScreen('ansGambia.png', region=(900,460,280,330), confidence=0.8)
 
+            time.sleep(np.random.uniform(0.2,0.5))
+
             click(x,y)
 
         if pyautogui.pixelMatchesColor(1150,420, (0,107,61)):
             
             x, y = pyautogui.locateCenterOnScreen('ansGhana.png', region=(900,460,280,330), confidence=0.8)
+
+            time.sleep(np.random.uniform(0.2,0.5))
 
             click(x,y)
 
@@ -1226,11 +1520,15 @@ while keyboard.is_pressed('q') == False:
             
             x, y = pyautogui.locateCenterOnScreen('ansAfghanistan.png', region=(900,460,280,330), confidence=0.8)
 
+            time.sleep(np.random.uniform(0.2,0.5))
+
             click(x,y)
 
         if pyautogui.pixelMatchesColor(1150,420, (255,6,27)):
             
             x, y = pyautogui.locateCenterOnScreen('ansBelgien.png', region=(900,460,280,330), confidence=0.8)
+
+            time.sleep(np.random.uniform(0.2,0.5))
 
             click(x,y)
 
@@ -1238,11 +1536,15 @@ while keyboard.is_pressed('q') == False:
             
             x, y = pyautogui.locateCenterOnScreen('ansDeutschland.png', region=(900,460,280,330), confidence=0.8)
 
+            time.sleep(np.random.uniform(0.2,0.5))
+
             click(x,y)
 
         if pyautogui.pixelMatchesColor(1150,420, (0,102,0)):
             
             x, y = pyautogui.locateCenterOnScreen('ansKenia.png', region=(900,460,280,330), confidence=0.8)
+
+            time.sleep(np.random.uniform(0.2,0.5))
 
             click(x,y)
 
@@ -1250,11 +1552,15 @@ while keyboard.is_pressed('q') == False:
             
             x, y = pyautogui.locateCenterOnScreen('ansMalawi.png', region=(900,460,280,330), confidence=0.8)
 
+            time.sleep(np.random.uniform(0.2,0.5))
+
             click(x,y)
 
         if pyautogui.pixelMatchesColor(1150,420, (223,54,2)):
             
             x, y = pyautogui.locateCenterOnScreen('ansUganda.png', region=(900,460,280,330), confidence=0.8)
+
+            time.sleep(np.random.uniform(0.2,0.5))
 
             click(x,y)
 
@@ -1268,11 +1574,15 @@ while keyboard.is_pressed('q') == False:
             
             x, y = pyautogui.locateCenterOnScreen('ansBotswana.png', region=(900,460,280,330), confidence=0.8)
 
+            time.sleep(np.random.uniform(0.2,0.5))
+
             click(x,y)
 
         if pyautogui.pixelMatchesColor(1150,420, (237,17,40)):
             
             x, y = pyautogui.locateCenterOnScreen('ansChile.png', region=(900,460,280,330), confidence=0.8)
+
+            time.sleep(np.random.uniform(0.2,0.5))
 
             click(x,y)
 
@@ -1280,11 +1590,15 @@ while keyboard.is_pressed('q') == False:
             
             x, y = pyautogui.locateCenterOnScreen('ansCostaRica.png', region=(900,460,280,330), confidence=0.8)
 
+            time.sleep(np.random.uniform(0.2,0.5))
+
             click(x,y)
 
         if pyautogui.pixelMatchesColor(1100,300, (34,122,201)):
             
             x, y = pyautogui.locateCenterOnScreen('ansEstland.png', region=(900,460,280,330), confidence=0.8)
+
+            time.sleep(np.random.uniform(0.2,0.5))
 
             click(x,y)
 
@@ -1292,11 +1606,15 @@ while keyboard.is_pressed('q') == False:
             
             x, y = pyautogui.locateCenterOnScreen('ansFinnland.png', region=(900,460,280,330), confidence=0.8)
 
+            time.sleep(np.random.uniform(0.2,0.5))
+
             click(x,y)
 
         if pyautogui.pixelMatchesColor(1150,400, (237,21,30)):
             
             x, y = pyautogui.locateCenterOnScreen('ansOesterreich.png', region=(900,460,280,330), confidence=0.8)
+
+            time.sleep(np.random.uniform(0.2,0.5))
 
             click(x,y)
 
@@ -1310,11 +1628,15 @@ while keyboard.is_pressed('q') == False:
             
             x, y = pyautogui.locateCenterOnScreen('ansAegypten.png', region=(900,460,280,330), confidence=0.8)
 
+            time.sleep(np.random.uniform(0.2,0.5))
+
             click(x,y)
 
         if pyautogui.pixelMatchesColor(1150,420, (255,179,0)):
             
             x, y = pyautogui.locateCenterOnScreen('ansArmenien.png', region=(900,460,280,330), confidence=0.8)
+
+            time.sleep(np.random.uniform(0.2,0.5))
 
             click(x,y)
 
@@ -1322,17 +1644,23 @@ while keyboard.is_pressed('q') == False:
             
             x, y = pyautogui.locateCenterOnScreen('ansChina.png', region=(900,460,280,330), confidence=0.8)
 
+            time.sleep(np.random.uniform(0.2,0.5))
+
             click(x,y)
 
         if pyautogui.pixelMatchesColor(1150,420, (0,155,0)):
             
             x, y = pyautogui.locateCenterOnScreen('ansMauritius.png', region=(900,460,280,330), confidence=0.8)
 
+            time.sleep(np.random.uniform(0.2,0.5))
+
             click(x,y)
 
         if pyautogui.pixelMatchesColor(1115,350, (255,255,255)):
             
             x, y = pyautogui.locateCenterOnScreen('ansVereinigtearab.png', region=(900,460,280,330), confidence=0.8)
+
+            time.sleep(np.random.uniform(0.2,0.5))
 
             click(x,y)
 
@@ -1346,11 +1674,15 @@ while keyboard.is_pressed('q') == False:
             
             x, y = pyautogui.locateCenterOnScreen('ansLibanon.png', region=(900,460,280,330), confidence=0.8)
 
+            time.sleep(np.random.uniform(0.2,0.5))
+
             click(x,y)
 
         if pyautogui.pixelMatchesColor(975,343, (255,255,255)):
             
             x, y = pyautogui.locateCenterOnScreen('ansTuerkei.png', region=(900,460,280,330), confidence=0.8)
+
+            time.sleep(np.random.uniform(0.2,0.5))
 
             click(x,y)
 
@@ -1364,11 +1696,15 @@ while keyboard.is_pressed('q') == False:
             
             x, y = pyautogui.locateCenterOnScreen('ansMalediven.png', region=(900,460,280,330), confidence=0.8)
 
+            time.sleep(np.random.uniform(0.2,0.5))
+
             click(x,y)
 
         if pyautogui.pixelMatchesColor(1150,420, (0,106,77)):
             
             x, y = pyautogui.locateCenterOnScreen('ansTogo.png', region=(900,460,280,330), confidence=0.8)
+
+            time.sleep(np.random.uniform(0.2,0.5))
 
             click(x,y)
 
@@ -1382,11 +1718,15 @@ while keyboard.is_pressed('q') == False:
             
             x, y = pyautogui.locateCenterOnScreen('ansNorwegen.png', region=(900,460,280,330), confidence=0.8)
 
+            time.sleep(np.random.uniform(0.2,0.5))
+
             click(x,y)
 
         if pyautogui.pixelMatchesColor(1150,420, (0,165,222)):
             
             x, y = pyautogui.locateCenterOnScreen('ansLuxemburg.png', region=(900,460,280,330), confidence=0.8)
+
+            time.sleep(np.random.uniform(0.2,0.5))
 
             click(x,y)
 
@@ -1400,11 +1740,15 @@ while keyboard.is_pressed('q') == False:
             
             x, y = pyautogui.locateCenterOnScreen('ansBenin.png', region=(900,460,280,330), confidence=0.8)
 
+            time.sleep(np.random.uniform(0.2,0.5))
+
             click(x,y)
 
         if pyautogui.pixelMatchesColor(1150,420, (0,136,80)):
             
             x, y = pyautogui.locateCenterOnScreen('ansNigeria.png', region=(900,460,280,330), confidence=0.8)
+
+            time.sleep(np.random.uniform(0.2,0.5))
 
             click(x,y)
 
@@ -1418,11 +1762,15 @@ while keyboard.is_pressed('q') == False:
             
             x, y = pyautogui.locateCenterOnScreen('ansTurkmenistan.png', region=(900,460,280,330), confidence=0.8)
 
+            time.sleep(np.random.uniform(0.2,0.5))
+
             click(x,y)
 
         if pyautogui.pixelMatchesColor(1050,335, (244,37,63)):
             
             x, y = pyautogui.locateCenterOnScreen('ansBangladesch.png', region=(900,460,280,330), confidence=0.8)
+
+            time.sleep(np.random.uniform(0.2,0.5))
 
             click(x,y)
 
@@ -1436,11 +1784,15 @@ while keyboard.is_pressed('q') == False:
             
             x, y = pyautogui.locateCenterOnScreen('ansMauretanien.png', region=(900,460,280,330), confidence=0.8)
 
+            time.sleep(np.random.uniform(0.2,0.5))
+
             click(x,y)
 
         if pyautogui.pixelMatchesColor(1150,420, (221,31,25)):
             
             x, y = pyautogui.locateCenterOnScreen('ansPortugal.png', region=(900,460,280,330), confidence=0.8)
+
+            time.sleep(np.random.uniform(0.2,0.5))
 
             click(x,y)
 
@@ -1454,11 +1806,15 @@ while keyboard.is_pressed('q') == False:
             
             x, y = pyautogui.locateCenterOnScreen('ansHaiti.png', region=(900,460,280,330), confidence=0.8)
 
+            time.sleep(np.random.uniform(0.2,0.5))
+
             click(x,y)
 
         if pyautogui.pixelMatchesColor(1150,420, (0,150,65)):
             
             x, y = pyautogui.locateCenterOnScreen('ansLesotho.png', region=(900,460,280,330), confidence=0.8)
+
+            time.sleep(np.random.uniform(0.2,0.5))
 
             click(x,y)
             
