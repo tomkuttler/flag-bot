@@ -28,7 +28,7 @@ This is a python bot that can solve the flag quiz on [geo-quiz.net](https://www.
 
 1. Open the flag quiz on geo-quiz.net using Firefox (not in full screen mode).
 2. Do NOT click on start, the bot will start the quiz by it self.
-3. Run the script `flag-bot.py` using the command `python flag-bot.py.
+3. Run the script `flag-bot.py` using the command `python flag-bot.py`.
 4. The bot will automatically start solving the quiz.
 
 ## How it Works
