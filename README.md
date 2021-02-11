@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-This is a python bot that can solve the flag quiz on geo-quiz.net faster than a human by automatically detecting the color of the top left pixel of the flag and clicking on the correct answer on the screen.
+This is a python bot that can solve the flag quiz on [geo-quiz.net](https://www.geo-quiz.net/de/flaggenquiz.html) faster than a human by automatically detecting the color of the top left pixel of the flag and clicking on the correct answer on the screen.
 
 </div>
 
