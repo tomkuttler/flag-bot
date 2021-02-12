@@ -2,13 +2,17 @@
 
 # flag-bot
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<a href="https://www.python.org">
+    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+<br>
+<br>
 
 This is a python bot that can solve the flag quiz on [geo-quiz.net](https://www.geo-quiz.net/de/flaggenquiz.html) faster than a human by automatically detecting the color of the top left pixel of the flag and clicking on the correct answer on the screen.
 
 </div>
 
-## Table of contents
+<details>
+<summary>Table of Contents</summary>
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -16,8 +20,11 @@ This is a python bot that can solve the flag quiz on [geo-quiz.net](https://www.
 - [Limitations](#limitations)
 - [Contributing](#contributing)
 - [License](#license)
+</details>
 
 ## Installation
+
+The bot is running on Windows only as the win32api is used for clicking. To run it on Linux/macOS you need to modify the click function first.
 
 1. Clone this repository to your local machine.
 2. Install the dependencies mentioned below:
@@ -51,7 +58,4 @@ If you would like to contribute to this project, please follow these steps:
 
 ## License
 
-</a>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-You are free to use, copy, modify, distribute, and display the work, as well as make derivative works based on it, as long as you give attribution to the original author and share any derivative works under the same license. For more information about the license, please see the `LICENSE.md` file.
-<div align="center">
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></div>
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute this software for both personal and commercial purposes as long as you give attribution to the original author. For more information about the license, please see the `LICENSE` file.
